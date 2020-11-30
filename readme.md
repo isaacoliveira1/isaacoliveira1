@@ -8,14 +8,13 @@
   </head>
 <body>
   <div class="row">
-    
+
   <img id="img1" src="https://img.icons8.com/color/452/symfony.png" height="20" width="20"><label>Symfony</label>
-  </div>
-<footer>
- <div allign="right">
+       <div align="right">
  <img src="123.jpg">
   </div>
-  </footer>
+  </div>
+
   </body>
 </html>
 <!--
