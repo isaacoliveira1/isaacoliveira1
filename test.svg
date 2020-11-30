@@ -24,9 +24,8 @@ h1 {
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
-      <img src="123.jpg">
-
+      <h1>Ola</h1>
     </div>
-    
+
   </foreignObject>
 </svg>
