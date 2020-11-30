@@ -29,10 +29,7 @@
          </h2>
     </div>
     <div align="left">
-        <img src="desnecessauro.gif">
-    </div>
-    <div align="right">
-        <img src="123.jpg">
+        <img src="desnecessauro.gif"><img align="right" src="123.jpg">
     </div>
     
 
