@@ -12,7 +12,7 @@
   <img id="img1" src="https://img.icons8.com/color/452/symfony.png" height="20" width="20"><label>Symfony</label>
   </div>
 <footer>
- <div allign="left">
+ <div allign="right">
  <img src="123.jpg">
   </div>
   </footer>
