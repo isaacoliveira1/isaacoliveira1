@@ -1,5 +1,4 @@
-## ![](teste.svg)
-#### 💬 Atualmente trabalho com Symfony
+#### 💬 Desenvolvedor Symfony
 <img src="123.jpg">
 
 <!--
