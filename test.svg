@@ -24,7 +24,7 @@ h2 {
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
-      <h2>Seja bem-vindo 👋<h2>
+      <h2>Seja bem-vindo 👋</h2>
     </div>
 
   </foreignObject>
