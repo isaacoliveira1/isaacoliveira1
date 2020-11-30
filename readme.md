@@ -8,8 +8,9 @@
   </head>
 <body>
   <div class="row">
-
-  <img id="img1" src="https://img.icons8.com/color/452/symfony.png" height="20" width="20"><label>Symfony</label>
+<h2>
+  <img id="img1" src="https://img.icons8.com/color/452/symfony.png" height="30" width="30">
+  Symfony</h2>
        <div align="right">
  <img src="123.jpg">
   </div>
