@@ -1,4 +1,4 @@
-## <img src="test.svg">
+
 #### 💬 Atualmente trabalho com Symfony
 <img src="123.jpg">
 
