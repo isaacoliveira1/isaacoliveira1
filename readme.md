@@ -1,6 +1,18 @@
-<img src="https://freeiconshop.com/wp-content/uploads/edd/code-flat.png" height="30" width="30"></img>Desenvolvedor Symfony
+<html>
+<head>
+ <div align="center"><img src="https://freeiconshop.com/wp-content/uploads/edd/code-flat.png" height="80" width="80" ></div>
+  <h1>
+    Desenvolvedor:
+  </h1>
+  
+  </head>
+<body>
+  <div class="row">
+    
+  <img id="img1" src="https://img.icons8.com/color/452/symfony.png" height="20" width="20"><label>Symfony</label>
+  </div>
 <footer><img src="123.jpg"></footer>
-
+</html>
 <!--
 **isaacoliveira1/isaacoliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
