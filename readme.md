@@ -27,10 +27,13 @@
              <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" height="30" width="30">
              CSS
          </h2>
+    <div align="left">
+        <img src="desnecessauro.gif">
+    </div>
          </div>
          <div align="right">
          <img src="123.jpg">
-    </div>
+        </div>
     
 
 </div>
