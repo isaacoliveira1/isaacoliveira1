@@ -6,7 +6,7 @@
   </h1>
   </div>
   </head>
-<body background-color="black">
+<body>
   <div class="row">
 
   <img id="img1" src="https://img.icons8.com/color/452/symfony.png" height="20" width="20"><label>Symfony</label>
@@ -14,7 +14,11 @@
  <img src="123.jpg">
   </div>
   </div>
-
+  <style>
+body {
+  background-color: #E6E6FA;
+}
+</style>
   </body>
 </html>
 <!--
