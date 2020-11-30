@@ -15,19 +15,24 @@
         <img src="https://www.php.net/images/logos/new-php-logo.svg" height="30" width="30">
         PHP
     </h2>
-    <h2>
+        <h2>
         <img src="https://cdn3.iconfinder.com/data/icons/font/216/branch-512.png" height="30" width="30">
         Twig
-    </h2>
-    <h2>
+         </h2>
+         <h2>
         <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="30" width="30">
         JavaScript
-    </h2>
-    <h2>
-        <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" height="30" width="30">
-        CSS
-    </h2>
- <p align="right"><img src="123.jpg"></img></p>
+         </h2>
+         <h2>
+             <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" height="30" width="30">
+             CSS
+         </h2>
+         </div>
+         <div align="right">
+         <img src="123.jpg">
+    </div>
+    
+
 </div>
 
 </body>
