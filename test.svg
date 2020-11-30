@@ -13,7 +13,7 @@
   27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
   100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
 }
-h1 {
+h2 {
   width: 120px;
   line-height: 20px;
   padding-top: 70px;
@@ -24,7 +24,7 @@ h1 {
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
-      Seja bem-vindo 👋
+      <h2>Seja bem-vindo 👋<h2>
     </div>
 
   </foreignObject>
