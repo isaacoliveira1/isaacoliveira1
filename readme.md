@@ -27,7 +27,7 @@
              <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" height="30" width="30">
              CSS
          </h2>
-     <div> <img align="center" src="123.jpg" height="300" width="300"></div>
+     <div> </div>
     </div>
     
       
