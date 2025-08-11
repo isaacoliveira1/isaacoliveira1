@@ -1,6 +1,6 @@
 <html>
 <head>
-    <div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG5qDnej5qn4K51aibYPzoJiuD7cN9lE6Drw&s" height="80" width="80" >
+    <div align="center"><img src="https://static.vecteezy.com/system/resources/previews/010/332/153/non_2x/code-flat-color-outline-icon-free-png.png" height="80" width="80" >
         <h1>
             Desenvolvedor:
         </h1>
